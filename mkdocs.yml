@@ -40,6 +40,7 @@ markdown_extensions:
 
 nav:
   - Overview: overview.md 
+  -- 2026_1: 2026_1/proy1/index.md
 
 
  
