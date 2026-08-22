@@ -39,8 +39,9 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
-  - Overview: overview.md 
-  -- 2026_1: 2026_1/proy1/index.md
+  - Overview: 
+      - overview: overview.md 
+      - 2026_1: 2026_1/proy1/index.md
 
 
  
