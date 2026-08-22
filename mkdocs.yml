@@ -41,7 +41,8 @@ markdown_extensions:
 nav:
   - Overview: 
       - overview: overview.md 
-      - 2026_1: 2026_1/proy1/index.md
+      - 2026a:
+        - Actividad electromiografía (EMG) en la lesión y reconstrucción del ligamento cruzado anterior (LCA/ACLR), Una revisión sistemática: 2026_1/proy1/index.md
 
 
  
