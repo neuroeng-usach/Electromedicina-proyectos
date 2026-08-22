@@ -42,7 +42,8 @@ markdown_extensions:
 
 extra_javascript:
   - javascripts/mathjax.js
-  - https://cloudflare.com
+  
+#   - https://cloudflare.com
 
   
 nav:
