@@ -1,21 +1,14 @@
-Universidad de Santiago
-
-Facultad de Ingeniería
-
-Electromedicina
-
-Actividad electromiografía (EMG) en la lesión y reconstrucción del
-ligamento cruzado anterior (LCA/ACLR): Una revisión sistemática
+# Actividad electromiografía (EMG) en la lesión y reconstrucción del
+# ligamento cruzado anterior (LCA/ACLR): Una revisión sistemática
 
 Profesor: Cristian Morales
-
 Ayudante: Aleli Galaz
 
 Integrantes:
 
-> [<u>Jaime Aninir Brickell</u>](mailto:jaime.aninir@usach.cl)
+> [<u>Jaime Aninir Brickell</u>](mailto:jaime.aninir [at] usach.cl)
 >
-> [<u>Fabian Marchant Vidal</u>](mailto:fabian.marchant@usach.cl)
+> [<u>Fabian Marchant Vidal</u>](mailto:fabian.marchant [at] usach.cl)
 
 **Resumen:** La reconstrucción del ligamento cruzado anterior (LCA/ACLR)
 es una de las cirugías ortopédicas más frecuentes en deportistas, pero
