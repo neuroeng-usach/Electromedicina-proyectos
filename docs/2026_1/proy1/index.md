@@ -1,5 +1,4 @@
-# Actividad electromiografía (EMG) en la lesión y reconstrucción del
-# ligamento cruzado anterior (LCA/ACLR): Una revisión sistemática
+# Actividad electromiografía (EMG) en la lesión y reconstrucción del ligamento cruzado anterior (LCA/ACLR): Una revisión sistemática
 
 Profesor: Cristian Morales
 Ayudante: Aleli Galaz
