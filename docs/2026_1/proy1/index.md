@@ -4,9 +4,9 @@ Profesor: Cristian Morales ; Ayudante: Aleli Galaz
 
 Integrantes:
 
-> [<u>Jaime Aninir Brickell</u>](mailto:jaime.aninir [at] usach.cl)
+> [<u>Jaime Aninir Brickell</u>](jaime.aninir [at] usach.cl)
 >
-> [<u>Fabian Marchant Vidal</u>](mailto:fabian.marchant [at] usach.cl)
+> [<u>Fabian Marchant Vidal</u>](fabian.marchant [at] usach.cl)
 
 **Resumen:** La reconstrucción del ligamento cruzado anterior (LCA/ACLR)
 es una de las cirugías ortopédicas más frecuentes en deportistas, pero
