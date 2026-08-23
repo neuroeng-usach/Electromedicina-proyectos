@@ -132,7 +132,8 @@ Esta normalización permitió representar y comparar descriptivamente la distrib
 4. **Extracción de la relación Theta/Alfa en el Canal Central (Cz):** Para cuantificar el grado de enlentecimiento cortical focal, se seleccionó el canal central Cz, representativo de la corteza sensoriomotora y comúnmente empleado en la literatura para evitar la dispersión multicanal. A partir de este electrodo se calculó el índice espectral integrador:
 
 $$
-   \mathrm{relación}\ \theta/\alpha =
+   \mathrm{relación}{\theta}/{\alpha}
+   =
    \frac{PSD_{\theta}(Cz)}{PSD_{\alpha}(Cz)}
    =
    \frac{\frac{1}{N_{\theta}}\sum_{f=4}^{8} PSD_{Cz}(f)}
