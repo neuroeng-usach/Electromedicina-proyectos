@@ -321,17 +321,11 @@ Por lo tanto, la relación Theta/Alfa constituye un índice candidato de enlente
 
 ## 6. Bibliografía
 
-[1] D. K. Simon, C. M. Tanner, and P. Brundin, "Parkinson disease epidemiology, pathology, genetics, and pathophysiology," Clin. Geriatr. Med., vol. 36, no. 1, pp. 1–12, feb. 2020, doi:
+[1] D. K. Simon, C. M. Tanner, and P. Brundin, "Parkinson disease epidemiology, pathology, genetics, and pathophysiology," Clin. Geriatr. Med., vol. 36, no. 1, pp. 1–12, feb. 2020, doi:10.1016. /j.cger.2019.08.002.
 
-### 10.1016. /j.cger.2019.08.002.
+[2] Y. Degirmenci, E. Angelopoulou, V. E. Georgakopoulou, and A. Bougea, "Cognitive impairment in Parkinson's disease: An updated overview focusing on emerging pharmaceutical treatment approaches," Medicina, vol. 59, no. 10, art. 1756, oct. 2023, doi:10.3390. /medicina59101756.
 
-[2] Y. Degirmenci, E. Angelopoulou, V. E. Georgakopoulou, and A. Bougea, "Cognitive impairment in Parkinson's disease: An updated overview focusing on emerging pharmaceutical treatment approaches," Medicina, vol. 59, no. 10, art. 1756, oct. 2023, doi:
-
-### 10.3390. /medicina59101756.
-
-[3] I. Litvan, J. G. Goldman, A. I. Tröster, B. A. Schmand, D. Weintraub, R. C. Petersen, et al., "Diagnostic criteria for mild cognitive impairment in Parkinson's disease: Movement Disorder Society Task Force guidelines," Mov. Disord., vol. 27, no. 3, pp. 349–356, mar.
-
-## 2012. , doi: 10.1002/mds.24893.
+[3] I. Litvan, J. G. Goldman, A. I. Tröster, B. A. Schmand, D. Weintraub, R. C. Petersen, et al., "Diagnostic criteria for mild cognitive impairment in Parkinson's disease: Movement Disorder Society Task Force guidelines," Mov. Disord., vol. 27, no. 3, pp. 349–356, mar. 2012. , doi: 10.1002/mds.24893.
 
 [4] M. F. Anjum, A. I. Espinoza, R. C. Cole, A. Singh, P. May, E. Y. Uc, S. Dasgupta, and N. S. Narayanan, "Resting-state EEG measures cognitive impairment in Parkinson's disease," NPJ Parkinsons Dis., vol. 10, no. 1, art. 6, ene. 2024, doi: 10.1038/s41531-023-00602-0.
 
@@ -345,34 +339,22 @@ Por lo tanto, la relación Theta/Alfa constituye un índice candidato de enlente
 
 [9] Y. Zhao, J. Cai, J. Song, et al., "Peak alpha frequency and alpha power spectral density as vulnerability markers of cognitive impairment in Parkinson's disease: An exploratory EEG study," Front. Neurosci., vol. 19, art. 1575815, 2025, doi: 10.3389/fnins.2025.1575815.
 
-[10] A. Singh, R. C. Cole, A. I. Espinoza, J. F. Cavanagh, and N. S. Narayanan, "Rest eyes open," OpenNeuro, dataset `ds004584`, versión 1.0.0, 2023, doi:
-
-### 10.18112. /openneuro.`ds004584`.v1.0.0.
+[10] A. Singh, R. C. Cole, A. I. Espinoza, J. F. Cavanagh, and N. S. Narayanan, "Rest eyes open," OpenNeuro, dataset `ds004584`, versión 1.0.0, 2023, doi:10.18112. /openneuro.`ds004584`.v1.0.0.
 
 [11] A. Jaramillo-Jimenez, D. A. Tovar-Rios, J. A. Ospina, et al., "Spectral features of resting-state EEG in Parkinson's disease: A multicenter study using functional data analysis," Clin. Neurophysiol., vol. 151, pp. 28–40, 2023, doi: 10.1016/j.clinph.2023.03.363.
 
-[12] C. Babiloni, G. Noce, F. Tucci, et al., "Poor reactivity of posterior electroencephalographic alpha rhythms during the eyes open condition in patients with dementia due to Parkinson's disease," Neurobiol. Aging, vol. 135, pp. 1–14, 2024, doi:
-
-### 10.1016. /j.neurobiolaging.2023.11.010.
+[12] C. Babiloni, G. Noce, F. Tucci, et al., "Poor reactivity of posterior electroencephalographic alpha rhythms during the eyes open condition in patients with dementia due to Parkinson's disease," Neurobiol. Aging, vol. 135, pp. 1–14, 2024, doi10.1016. /j.neurobiolaging.2023.11.010.
 
 [13] J. Schumacher, A. J. Thomas, L. R. Peraza, M. Firbank, R. Cromarty, C. A. Hamilton, P. C. Donaghy, J. T. O'Brien, and J. P. Taylor, "EEG alpha reactivity and cholinergic system integrity in Lewy body dementia and Alzheimer's disease," Alzheimers Res. Ther., vol. 12, art. 46, 2020, doi: 10.1186/s13195-020-00613-6.
 
 [14] V. V. Kozak, M. Chaturvedi, U. Gschwandtner, F. Hatz, A. Meyer, V. Roth, and P. Fuhr, "EEG slowing and axial motor impairment are independent predictors of cognitive worsening in a three-year cohort of patients with Parkinson's disease," Front. Aging Neurosci., vol. 12, art. 171, 2020, doi: 10.3389/fnagi.2020.00171.
 
-[15] A. Singh, R. C. Cole, A. I. Espinoza, J. R. Wessel, J. F. Cavanagh, and N. S. Narayanan, "Evoked mid-frontal activity predicts cognitive dysfunction in Parkinson's
+[15] A. Singh, R. C. Cole, A. I. Espinoza, J. R. Wessel, J. F. Cavanagh, and N. S. Narayanan, "Evoked mid-frontal activity predicts cognitive dysfunction in Parkinson's disease," J. Neurol. Neurosurg. Psychiatry, vol. 94, no. 11, pp. 945–953, jun. 2023, doi:10.1136. /jnnp-2022-330154.
 
-disease," J. Neurol. Neurosurg. Psychiatry, vol. 94, no. 11, pp. 945–953, jun. 2023, doi:
-
-### 10.1136. /jnnp-2022-330154.
-
-[16] D. Eichelberger, P. Calabrese, A. Meyer, M. Chaturvedi, F. Hatz, P. Fuhr, and U. Gschwandtner, "Correlation of visuospatial ability and EEG slowing in patients with Parkinson's disease," Parkinsons Dis., vol. 2017, art. 3659784, 2017, doi:
-
-### 10.1155. /2017/3659784.
+[16] D. Eichelberger, P. Calabrese, A. Meyer, M. Chaturvedi, F. Hatz, P. Fuhr, and U. Gschwandtner, "Correlation of visuospatial ability and EEG slowing in patients with Parkinson's disease," Parkinsons Dis., vol. 2017, art. 3659784, 2017, doi:10.1155. /2017/3659784.
 
 [17] A. F. Kemp, M. Kinnerup, B. Johnsen, S. Jakobsen, A. Nahimi, and A. Gjedde, "EEG frequency correlates with α₂-receptor density in Parkinson's disease," Biomolecules, vol. 14, no. 2, art. 209, 2024, doi: 10.3390/biom14020209.
 
-[18] L. Nucci, F. Miraglia, C. Pappalettera, P. M. Rossini, and F. Vecchio, "Exploring the complexity of EEG patterns in Parkinson's disease," GeroScience, vol. 47, pp. 837–849,
-
-## 2025. , doi: 10.1007/s11357-024-01277-y.
+[18] L. Nucci, F. Miraglia, C. Pappalettera, P. M. Rossini, and F. Vecchio, "Exploring the complexity of EEG patterns in Parkinson's disease," GeroScience, vol. 47, pp. 837–849, 2025. , doi: 10.1007/s11357-024-01277-y.
 
 [19] H. Almgren, M. Camacho, A. Hanganu, M. Kibreab, R. Camicioli, Z. Ismail, N. D. Forkert, and O. Monchi, "Machine learning-based prediction of longitudinal cognitive decline in early Parkinson's disease using multimodal features," Sci. Rep., vol. 13, no. 1, art. 13193, ago. 2023, doi: 10.1038/s41598-023-37644-6.
